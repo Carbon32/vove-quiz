@@ -5,18 +5,20 @@
         "login": "Iniciar sesión",
         "register": "Crear cuenta",
         "authentication": "Autenticación",
+        "quiz": "Cuestionario",
+        "history": "Historial",
         "language": "Idioma"
     },
     "home": {
-        "title": "Gopher Auth",
-        "subtitle": "Un sitio web de ejemplo que utiliza un sistema de autenticación basado en Go. Está bastante bien.",
-        "button": "Ver acerca de",
+        "title": "Duke Quiz",
+        "subtitle": "Un sitio web de ejemplo que utiliza un sistema de cuestionarios basado en Java. Está bastante bien.",
+        "button": "Más información",
         "qa": "Preguntas y respuestas",
-        "q_1": "¿Por qué usar Go?",
+        "q_1": "¿Por qué usar Java?",
         "q_2": "¿Por qué usar Vue.js?",
-        "q_3": "¿Qué es esto exactamente?",
-        "answer_1": "Por alguna razón, me gusta mucho el manejo de errores.",
+        "q_3": "Pero ¿qué es esto exactamente?",
+        "answer_1": "Tortura.",
         "answer_2": "Uf, los componentes de archivo único son divertidos.",
-        "answer_3": "Una plataforma antigua que creé, en la que integré el sistema de autenticación e hice algunas correcciones. Y aquí estamos."
+        "answer_3": "Otra parte de un proyecto antiguo, migrada a Java, y aquí estamos."
     }
 }

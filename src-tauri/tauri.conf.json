@@ -1,8 +1,8 @@
 {
     "$schema": "../node_modules/@tauri-apps/cli/config.schema.json",
-    "productName": "Gopher Auth",
+    "productName": "Duke Quiz",
     "version": "0.1.0",
-    "identifier": "com.gopherauth.dev",
+    "identifier": "com.dukequiz.dev",
     "build": {
         "frontendDist": "../dist",
         "devUrl": "http://localhost:5173",
@@ -12,7 +12,7 @@
     "app": {
         "windows": [
             {
-                "title": "Gopher Auth",
+                "title": "Duke Quiz",
                 "width": 800,
                 "height": 600,
                 "resizable": true,

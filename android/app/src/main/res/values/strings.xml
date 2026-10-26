@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-    <string name="app_name">Gopher Auth</string>
-    <string name="title_activity_main">Gopher Auth</string>
+    <string name="app_name">Duke Quiz</string>
+    <string name="title_activity_main">Duke Quiz</string>
     <string name="package_name">com.carbon.com</string>
     <string name="custom_url_scheme">com.carbon.com</string>
 </resources>

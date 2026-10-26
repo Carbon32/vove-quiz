@@ -222,7 +222,6 @@ onMounted(load_history)
 .empty,
 .error {
     text-align: center;
-    font-weight: 700;
     color: #aaa;
 }
 
