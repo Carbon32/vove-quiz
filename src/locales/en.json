@@ -1,0 +1,22 @@
+{
+    "navigation": {
+        "home": "Home",
+        "about": "About",
+        "login": "Sign in",
+        "register": "Create account",
+        "authentication": "Authentication",
+        "language": "Language"
+    },
+    "home": {
+        "title": "Gopher Auth",
+        "subtitle": "A sample website that uses a Go-based authentication system, it's quite nice.",
+        "button": "Check About",
+        "qa": "Questions & Answers",
+        "q_1": "Why use Go?",
+        "q_2": "Why use Vue.js?",
+        "q_3": "What is even this?",
+        "answer_1": "I really like the error handling for some reason.",
+        "answer_2": "Uf, single-file components are fun.",
+        "answer_3": "An old platform I made, integrated the authentication system in it, made some fixes and here we are."
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "navigation": {
+        "home": "Accueil",
+        "about": "À propos",
+        "login": "Se connecter",
+        "register": "Créer un compte",
+        "authentication": "Authentification",
+        "language": "Langue"
+    },
+    "home": {
+        "title": "Gopher Auth",
+        "subtitle": "Un site web de démonstration qui utilise un système d'authentification basé sur Go. C'est plutôt sympa. ",
+        "button": "En savoir plus",
+        "qa": "Questions et réponses",
+        "q_1": "Pourquoi utiliser Go?",
+        "q_2": "Pourquoi utiliser Vue.js?",
+        "q_3": "Mais qu'est-ce que c'est, au juste?",
+        "answer_1": "Pour une raison quelconque, j'aime beaucoup la gestion des erreurs.",
+        "answer_2": "Ouf, les composants à fichier unique, c'est sympa.",
+        "answer_3": "Une ancienne plateforme que j'ai créée, dans laquelle j'ai intégré le système d'authentification et apporté quelques corrections. Et nous voilà."
+    }
+}
