@@ -18,9 +18,9 @@ import FooterDivider from "./FooterDivider.vue";
         <div class="footer-container">
             <div class="footer-main">
                 <div class="footer-brand">
-                    <h2 class="footer-logo">Gopher Auth</h2>
+                    <h2 class="footer-logo">Duke Quiz</h2>
                     <p class="footer-tagline">
-                        An authentication system written in Go. And this is an example of its usage.
+                        A quiz platform to practice answering questions.
                     </p>
 
                     <div class="social-links">
@@ -90,7 +90,7 @@ import FooterDivider from "./FooterDivider.vue";
 
             <div class="footer-bottom">
                 <span>
-                    &copy {{ new Date().getFullYear() }} Gopher Auth. All rights reserved (not really).
+                    &copy {{ new Date().getFullYear() }} Duke Quiz. All rights reserved (not really).
                 </span>
 
                 <a href="#" class="back-to-top" aria-label="Back to top">
