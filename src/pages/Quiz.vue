@@ -5,6 +5,13 @@ import { useAuthStore } from "../stores/auth"
 import { read_response, response_error } from "../lib/api"
 import { quiz_fetch, type Question } from "../lib/quiz"
 
+/*
+
+All icons (bubbles) are from: Flat Icons
+Go there and search for the theme and you should get them
+
+*/
+
 const images: Record<string, string> = {
     "Technology": "/bubbles/computer.png",
     "History": "/bubbles/history.png",

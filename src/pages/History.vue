@@ -30,6 +30,14 @@ async function load_history() {
         return
     }
     try {
+        /* Ignore this, just testing rate limiting */
+        /* for (let i = 0; i < 30; i++) {
+            const response = await quiz_fetch("/api/quiz/history", auth.user.id)
+            const data = await read_response<LessonHistory[]>(response)
+            if (!response.ok) throw new Error(response_error(data, "Could not load your history."))
+            history.value = data
+        } */
+
         const response = await quiz_fetch("/api/quiz/history", auth.user.id)
         const data = await read_response<LessonHistory[]>(response)
         if (!response.ok) throw new Error(response_error(data, "Could not load your history."))
